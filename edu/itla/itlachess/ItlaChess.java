@@ -1,3 +1,6 @@
+/**
+ * @author Raydelto
+ */
 package edu.itla.itlachess;
 
 import edu.itla.itlachess.network.Server;
