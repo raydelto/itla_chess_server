@@ -1,0 +1,9 @@
+/quit Exits the game
+/list_users Lists all online users
+/list_available_users List all available users
+/login&<user> Logs user into the system
+/broadcast&<message> Sends message to all users on the server
+/message&<user>&<message> Sends a message to a specify user 
+/play&<user>&<details> Sends play details, example Nc6.  K for king, Q for queen, R for rook, B for bishop, and N for knight
+/isOnCheck&<user> Returns whether or not an user is on check
+/isOnCheckMate&<user> Returns whether or not an user is on checkmate. 
